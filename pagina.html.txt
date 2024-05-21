@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maximo Barolo - Optimización de PCs</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav {
+            margin: 10px 0;
+            text-align: center;
+        }
+        nav a {
+            margin: 0 15px;
+            color: #333;
+            text-decoration: none;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            overflow: hidden;
+        }
+        .section {
+            margin: 20px 0;
+            padding: 20px;
+            background: #fff;
+            border-radius: 8px;
+        }
+        h2 {
+            margin-top: 0;
+        }
+        .optimizations a {
+            display: block;
+            margin: 10px 0;
+            padding: 10px;
+            background-color: #0066cc;
+            color: #fff;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+        .optimizations a:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Maximo Barolo - Optimización de PCs</h1>
+    </header>
+    <nav>
+        <a href="#about">Sobre mí</a>
+        <a href="#optimizations">Optimización</a>
+        <a href="#contact">Contacto</a>
+    </nav>
+    <div class="container">
+        <div id="about" class="section">
+            <h2>Sobre mí</h2>
+            <p>Hola, soy Maximo Barolo. Me dedico a la optimización de PCs para mejorar su rendimiento y eficiencia. Si necesitas ayuda para que tu computadora funcione de manera más rápida y efectiva, estás en el lugar correcto.</p>
+        </div>
+        <div id="optimizations" class="section">
+            <h2>Optimización</h2>
+            <p>Selecciona una optimización para ver más detalles:</p>
+            <div class="optimizations">
+                <a href="#optimization1">Minecraft: Launchers y Carpetas Optimizadas</a>
+                <a href="#optimization2">Fortnite: GameUser Settings Optimizado</a>
+                <a href="#optimization3">Free fire: Emuladores Etc</a>
+                <a href="#optimization4">Internet: DNS-Ping</a>
+                <a href="#optimization5">Windows: Windows optimizado y Opciones Para Mejorar uso CPU y RAM</a>
+                <a href="#optimization6">Varias Optimizaciones: Archivos Temp + Rendimiento</a>
+            </div>
+        </div>
+        <div id="contact" class="section">
+            <h2>Contacto</h2>
+            <p>Para más información o para solicitar mis servicios, contáctame a través de los siguientes medios:</p>
+            <ul>
+                <li>Teléfono: <a href="tel:+5493491436655">+54 9 3491 43-6655</a></li>
+                <li>Discord: <a href="https://discord.gg/YwuV8SCj">Mi grupo de Discord</a></li>
+                <li>YouTube: <a href="https://www.youtube.com/@maximobarolo">Mi canal de YouTube</a></li>
+                <li>TikTok: <a href="https://www.tiktok.com/@_s0ymaxi">Mi cuenta de TikTok</a></li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
